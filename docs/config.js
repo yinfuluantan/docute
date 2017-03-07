@@ -2,7 +2,7 @@ var langs = [
   {title: 'English', path: '/home', matchPath: /^\/(home|plugin|cli)/},
   {title: '简体中文', path: '/zh-Hans/', matchPath: /^\/zh-Hans/},
   {title: '繁體中文', path: '/zh-Hant/', matchPath: /^\/zh-Hant/},
-  {title: '日本語', path: '/ja/', matchPath: /^\/ja/}
+  {title: '日2本語', path: '/ja/', matchPath: /^\/ja/}
 ]
 
 self.$config = {
